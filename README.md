@@ -18,6 +18,6 @@ This is just a testing repository. More improvements could be made to make this 
 
 
 ### Behavior
-Since the script is in a single file and doesnt have the above improvements, the script attempts to complete all tasks each time the script is loaded (Creating a person, Updating a person, and assigning a person an opportunity). In a real world situation this would be handled differently.
+Since the script is in a single file and doesnt have the above improvements, the script attempts to complete all tasks each time the script is loaded (creating a person, updating a person, and assigning a person an opportunity). In a real world situation this would be handled differently.
 
 The script will print the response to your screen.
